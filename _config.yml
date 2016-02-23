@@ -1,0 +1,28 @@
+name: 'Wolf & the Gang'
+favicon: null
+layout_spectrum: 0.09727100026793778
+typography_spectrum: 0.31563195097260177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49851140519604087
+  lightness: 0.26326113124378026
+  saturation: 0.6869219949003309
+  rhythmicContrast: 0.1655894247815013
+purpose: []
