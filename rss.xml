@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wolf & the Gang]]></title>
-        <description><![CDATA[Wolf & the Gang]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[We are  a Family of 4]]></title>
+        <description><![CDATA[We are  a Family of 4]]></description>
+        <link>https://thegrid.ai/wolf-and-the-gang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 20:32:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 10:09:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolf-and-the-gang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Wolfgang, the older guy who constantly wonders why God always has the better plan in store</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/187283103e1bb291d75643bdeea11ec599ee7415.jpg"></article>]]></description>
-            <link>undefinedc0f8811b-5ce9-425c-bf82-d33366768755/index.html</link>
+            <link>https://thegrid.ai/wolf-and-the-gang/c0f8811b-5ce9-425c-bf82-d33366768755/index.html</link>
             <guid isPermaLink="false">c0f8811b-5ce9-425c-bf82-d33366768755</guid>
             <pubDate>Wed, 24 Feb 2016 20:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fce4b9fb-61a4-46ed-9fcd-417cb6eb44d1.jpg">]]></description>
+            <link>https://thegrid.ai/wolf-and-the-gang/e6bed495-4289-418f-8201-351c4df35dcf/index.html</link>
+            <guid isPermaLink="false">e6bed495-4289-418f-8201-351c4df35dcf</guid>
+            <pubDate>Thu, 03 Mar 2016 10:09:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
