@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[We are  a Family of 4]]></title>
         <description><![CDATA[We are  a Family of 4]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wolf-and-the-gang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:05:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 18:07:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolf-and-the-gang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e210faf7-5132-486b-a6df-7dc2278f4686.jpg">]]></description>
-            <link>undefineda8bfaa7c-3972-402c-8992-d58b3e1c2060/index.html</link>
+            <link>https://thegrid.ai/wolf-and-the-gang/a8bfaa7c-3972-402c-8992-d58b3e1c2060/index.html</link>
             <guid isPermaLink="false">a8bfaa7c-3972-402c-8992-d58b3e1c2060</guid>
-            <pubDate>Fri, 04 Mar 2016 18:05:37 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 18:07:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
