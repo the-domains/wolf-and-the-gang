@@ -28,6 +28,9 @@ navigation:
   - name: About
     id: c0f8811b-5ce9-425c-bf82-d33366768755
     type: content
+  - name: Blog
+    id: f4bb934f-50a8-4129-bc53-68937e9303d2
+    type: content
 favicon: null
 title: We are  a Family of 4
 purpose: []
