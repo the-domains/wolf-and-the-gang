@@ -1,20 +1,4 @@
-name: 'Wolf & the Gang'
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0
-title: We are  a Family of 4
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -26,4 +10,24 @@ color:
   lightness: 0.625
   saturation: 0.3125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Wolf & the Gang
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    id: c0f8811b-5ce9-425c-bf82-d33366768755
+    type: content
+favicon: null
+title: We are  a Family of 4
 purpose: []
