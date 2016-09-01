@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Wolfgang F. Svatek
+  email: wfs@fino-media.com
+  url: www.linkedin.com/in/wolfgangsvatek
 name: Wolf & the Gang
 cta:
   domain: null
