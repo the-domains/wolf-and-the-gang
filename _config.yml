@@ -35,6 +35,9 @@ navigation:
   - name: Blog
     id: f4bb934f-50a8-4129-bc53-68937e9303d2
     type: content
+  - name: Images
+    id: 369b2daa-fec3-4930-bbe6-61688fc5fd53
+    type: content
 favicon: null
 title: We are a Family of 4
 description: simply by the Grace of God
